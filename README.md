@@ -1,23 +1,8 @@
-## Hi there 👋
-My name is Nandor
+## Hi there 👋  
+I'm **Nandor**
 
-I'm a hobbyist Rustacean 🦀 building tools I actually want to use. I love CLIs, Linux and low-level tinkering.  
-I'm always doing some shit so I'm not available usually, but if you really need to reach me do it <a href="https://discordapp.com/users/414730368193921036" target="_blank">here</a>.
+I'm a hobbyist Rustacean 🦀 building tools I actually want to use. I love CLIs, Linux, and low-level tinkering.  
+I'm always working on some random stuff, so I'm usually not available — but if you really need to reach me, do it [here](https://discordapp.com/users/414730368193921036).
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
-<!-- - ⚡Fun fact about me: I like winter sports and mangas. -->
-<!--
-**Nandor206/Nandor206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
