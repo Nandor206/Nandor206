@@ -1,6 +1,7 @@
 ## Hi there 👋
-My name is Nandor
-- I'm always doing some shit so I'm not available usually, but if you really need to reach me do it <a href="https://discordapp.com/users/414730368193921036" target="_blank">here</a>.
+My name is Nandor                                                                                
+I'm a hobbyist Rustacean 🦀 building tools I actually want to use. I love CLIs, Linux and low-level tinkering.  
+I'm always doing some shit so I'm not available usually, but if you really need to reach me do it <a href="https://discordapp.com/users/414730368193921036" target="_blank">here</a>.
 <!-- - ⚡Fun fact about me: I like winter sports and mangas. -->
 <!--
 **Nandor206/Nandor206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
